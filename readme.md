@@ -1,0 +1,1 @@
+GIT exercise to practice branch, merge and merge conflict
